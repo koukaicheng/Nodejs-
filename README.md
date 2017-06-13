@@ -5,4 +5,5 @@
 克隆项目到本地
 
 npm install 下载依赖
-node app.js
+
+输入命令 node app.js
